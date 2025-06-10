@@ -80,3 +80,40 @@ h2 {
 .example {
     background-color: #00B172;
 }
+
+.Music {
+    width: 250px;
+}
+
+.HDMusic {
+    width: 250px;
+}
+
+.stream {
+    width: 250px;
+}
+
+.example {
+    margin: 20px;
+    padding: 20px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container2 img {
+    width: 100px;
+    align-items: center;
+
+}
+
+.container1 {
+    width: 400px;
+}
+
+.container3 img {
+    height: 400px;
+}
+
